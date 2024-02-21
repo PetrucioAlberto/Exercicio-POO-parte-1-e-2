@@ -1,0 +1,7 @@
+C:\Users\Home\Desktop\CursosGeral\CodigoBase\Entregavel_2\Parte_1_Ex_5\bin\Debug\Parte_1_Ex_5.exe.config
+C:\Users\Home\Desktop\CursosGeral\CodigoBase\Entregavel_2\Parte_1_Ex_5\bin\Debug\Parte_1_Ex_5.exe
+C:\Users\Home\Desktop\CursosGeral\CodigoBase\Entregavel_2\Parte_1_Ex_5\bin\Debug\Parte_1_Ex_5.pdb
+C:\Users\Home\Desktop\CursosGeral\CodigoBase\Entregavel_2\Parte_1_Ex_5\obj\Debug\Parte_1_Ex_5.csproj.AssemblyReference.cache
+C:\Users\Home\Desktop\CursosGeral\CodigoBase\Entregavel_2\Parte_1_Ex_5\obj\Debug\Parte_1_Ex_5.csproj.CoreCompileInputs.cache
+C:\Users\Home\Desktop\CursosGeral\CodigoBase\Entregavel_2\Parte_1_Ex_5\obj\Debug\Parte_1_Ex_5.exe
+C:\Users\Home\Desktop\CursosGeral\CodigoBase\Entregavel_2\Parte_1_Ex_5\obj\Debug\Parte_1_Ex_5.pdb
